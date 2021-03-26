@@ -14,7 +14,7 @@ on:
   workflow_dispatch:
 
 env:
-  owner: <owner>
+  owner: chaudhari.sumit
   domain: github.io
 
 # A workflow run is made up of one or more jobs that can run sequentially or in parallel
